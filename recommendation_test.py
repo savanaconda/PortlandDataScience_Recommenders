@@ -1,3 +1,6 @@
+# NOTE: THIS CODE WAS NOT WRITTEN BY SAVANACONDA.
+# This is part of a collaboration done with another Data Science Meetup member
+# 
 # User must create function called my_predict_rating(training_data, user_id, game_id)
 # Where 'training_data' is a pandas dataframe with columns "user_id", "game_id", and "rating"
 # 		'user_id' is the ID of the particular user which you are predicting a rating
